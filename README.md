@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lynxtickler
+- 👀 I’m interested in automating my daily computer usage by programming little scripts for everything.
+- 🌱 I’m currently learning linear programming, and been very interested in mathematical programming lately.
+- 📫 How to reach me: If you're reading this, I've probably given you my contact information or you know me from Discord.
